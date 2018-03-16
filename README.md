@@ -1,10 +1,10 @@
 # lab1
 Lab 1_B
 
-1.輸入值令為n，先提示使用者輸入一整數值，按enter後，讀入該值
+1. Set the input value as "n". The user is first prompted to enter an integer. After pressing "enter", the value is read in.
 
-2.將讀入值代入for loop內，迴圈有反複運算，直到值超出給定條件的特性
+2. Substituting the input value into "for loop", the loop will repeatedly operate until the value exceeds the given condition.
 
-3.又在for loop內中加入if判斷"餘數"，用以區分奇偶數，並分別求新n值
+3. Use "if else" in the for loop to detect  the "remainder"  of input number so as to distinguish between odd and even number. Then calculate separately to find new value of n.
 
-4.最後藉由for loop重複step3之判斷和計算，得出多個n值，直到n小到1為止，程式結束執行。
+4. Finally, through the "for loop", repeating the judgment and calculation of step3, a sepuence of values will be obtained until n equal 1.Print all value obtained ,and then the program ends execution.
